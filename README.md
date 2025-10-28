@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukasllaebel" alt="lukasllaebel" /></a> </p>  
   
-- 🔭 I’m currently working on [Terraria-clone](https://github.com/LukasLLaebel/Terraria-clone)  
+- 🔭 I’m currently working on [IMPR - My study](https://github.com/LukasLLaebel/C-Code)  
   
 - 🌱 I’m currently learning **C++ , C , python**  
 <p align="left">  
