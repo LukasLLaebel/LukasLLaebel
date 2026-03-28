@@ -20,7 +20,7 @@
 - Currently working on: [IWP - My study](https://github.com/LukasLLaebel/JS-code)  
 - Currently learning: **JavaScript, TypeScript, Python**
 - Always exploring new technologies and tools.
-- How to reach me: [lukasleander@gmail.com](mailto:lukasleander@gmail.com)
+- How to reach me: [lukaslaebel@gmail.com](mailto:lukaslaebel@gmail.com)
 
 ---
 
