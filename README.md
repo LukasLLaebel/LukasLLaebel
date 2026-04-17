@@ -18,7 +18,7 @@
 ### About Me
 
 - Currently working on: [IWP - My study](https://github.com/LukasLLaebel/JS-code)  
-- Currently learning: **JavaScript, TypeScript, Python**
+- Currently learning: **JavaScript, Rust, Python**
 - Always exploring new technologies and tools.
 - How to reach me: [lukaslaebel@gmail.com](mailto:lukaslaebel@gmail.com)
 
@@ -26,7 +26,7 @@
 
 ### Languages & Tools
 
-<p align="center">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -38,7 +38,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+</div>
+
 
 ---
 
